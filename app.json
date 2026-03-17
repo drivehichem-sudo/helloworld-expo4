@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Hello World",
-    "slug": "helloworld-expo",
+    "slug": "hello3",
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["android"],
